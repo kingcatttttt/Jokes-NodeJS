@@ -12,4 +12,5 @@ node.js, js
 1. we open
  project
 2. npm i
-3. npm run dev
+3. node index
+
